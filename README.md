@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
