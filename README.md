@@ -3,7 +3,7 @@
 
 
 
-## You can find me: 
+### You can find me: 
 ### 👉  [Linkedin](https://www.linkedin.com/in/andres-rodriguez-60a166208/)
 
 ###  👉  [Portfolio](https://andresporfolio.herokuapp.com/)
